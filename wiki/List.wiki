@@ -30,3 +30,7 @@
 10.   Описание пользователя
 
 11.   Тест-кейсы
+
+= Полезные ссылки = 
+
+http://swebok.sorlik.ru/1_software_requirements.html
