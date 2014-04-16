@@ -1,0 +1,13 @@
+В разработке используется язык C#(ASP.NET) .NET Framework 4.5
+
+Среда разработки
+	Microsoft Visual Studio 2012 Professional
+
+База данных
+	Microsoft SQL Server 2012
+	Microsoft SQL Server Data Tools
+
+Тестирование в браузерах
+	Google Chrome 33
+	Internet Explorer 7-9
+	Firefox 23-25
