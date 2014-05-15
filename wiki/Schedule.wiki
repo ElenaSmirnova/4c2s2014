@@ -16,3 +16,5 @@
 
 Рекомендованная к прочтению книжка по UI
 https://vk.com/doc217242047_211748870?hash=5eb086a867dd1cd765&dl=272f33a5109c991b25
+
+Информация по дизайну форм http://www.artlebedev.ru/tools/technogrette/etc/forms/
